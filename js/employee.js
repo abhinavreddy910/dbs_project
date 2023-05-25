@@ -6,6 +6,7 @@ const join_dateInput = document.querySelector('#join_date-input');
 const lnoInput = document.querySelector('#lno-input');
 const fnoInput = document.querySelector('#fno-input');
 const error_add = document.querySelector('#error_add');
+const i = null;
 
 const updateNameInput = document.querySelector('#update-name-input');
 const updateJoin_dateInput = document.querySelector('#update-join_date-input');
